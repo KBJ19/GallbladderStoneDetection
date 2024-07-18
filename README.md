@@ -33,3 +33,43 @@ Future enhancements include:
 
 We express our sincere gratitude to Prof. Grishma Sharma for her expert guidance and the Somaiya Vidyavihar University's Department of Computer Engineering for their support. We also thank the GBC-IITD research group for providing the GBCU dataset.
 
+## Model Architecture 
+
+## VGG16
+
+![image](https://github.com/user-attachments/assets/ff74d63f-1fc7-40f2-9842-e248a5e6f8e1)
+
+## ResNet50
+
+![image](https://github.com/user-attachments/assets/7f0d9a10-c83d-41b7-8c4c-a87f3620d8b1)
+
+## MobileNetV2
+
+![image](https://github.com/user-attachments/assets/a958ef41-dfdd-4b65-a36a-316938052cbe)
+
+
+## Approuch 
+
+## Curriculum Learning
+
+![image](https://github.com/user-attachments/assets/18289e89-f89a-4024-84cd-94e777038847)
+
+## Pooling Architecture
+
+![image](https://github.com/user-attachments/assets/39ea0b29-79a0-44e3-8c70-7e9cfdb9f3c0)
+
+
+## Results
+
+![image](https://github.com/user-attachments/assets/a3dde7f7-de36-4cf4-bc6b-ae641f87049c)
+
+![image](https://github.com/user-attachments/assets/14802736-455a-4f7b-9fdf-da244a4df351)
+
+
+
+
+
+
+
+
+
